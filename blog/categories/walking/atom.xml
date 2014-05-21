@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Walking | My Octopress Blog]]></title>
   <link href="http://rbracket.github.io//github/blog/categories/walking/atom.xml" rel="self"/>
   <link href="http://rbracket.github.io//github/"/>
-  <updated>2014-05-21T13:29:32-07:00</updated>
+  <updated>2014-05-21T13:51:12-07:00</updated>
   <id>http://rbracket.github.io//github/</id>
   <author>
     <name><![CDATA[Katie Urey]]></name>
@@ -20,7 +20,7 @@
     <id>http://rbracket.github.io//github/blog/2014/05/21/starting</id>
     <content type="html"><![CDATA[<p>*This is cool
 **This too
-<img class="left" src="source/images/adela.jpg" width="300" height="300" title="&lsquo;bird title&rsquo; &lsquo;alt bird&rsquo;" ></p>
+Error processing input, expected syntax: {% img [class name(s)] [http[s]:/]/path/to/image [width [height]] [title text | "title text" ["alt text"]] %}</p>
 ]]></content>
   </entry>
   
