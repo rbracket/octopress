@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://rbracket.github.io//github/blog/2014/05/21/starting/</loc>
+        <loc>http://rbracket.github.io//octopress/blog/2014/05/21/starting/</loc>
         <lastmod>2014-05-21T14:01:02-07:00</lastmod>
     </url>
     <url>
-        <loc>http://rbracket.github.io//github/</loc>
+        <loc>http://rbracket.github.io//octopress/</loc>
         <lastmod>2014-05-21T14:01:02-07:00</lastmod>
     </url>
     <url>
-        <loc>http://rbracket.github.io//github/robots.txt</loc>
+        <loc>http://rbracket.github.io//octopress/robots.txt</loc>
         <lastmod>2014-05-21T12:27:15-07:00</lastmod>
     </url>
     <url>
-        <loc>http://rbracket.github.io//github/embedding-mapillary-view-of-klein-point/</loc>
+        <loc>http://rbracket.github.io//octopress/embedding-mapillary-view-of-klein-point/</loc>
         <lastmod>2014-05-21T14:27:18-07:00</lastmod>
     </url>
     <url>
-        <loc>http://rbracket.github.io//github/blog/archives/</loc>
+        <loc>http://rbracket.github.io//octopress/blog/archives/</loc>
         <lastmod>2014-05-21T14:01:02-07:00</lastmod>
     </url>
 </urlset>

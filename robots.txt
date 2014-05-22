@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://rbracket.github.io//github/sitemap.xml 
+Sitemap: http://rbracket.github.io//octopress/sitemap.xml 

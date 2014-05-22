@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Gis | My Octopress Blog]]></title>
-  <link href="http://rbracket.github.io//github/blog/categories/gis/atom.xml" rel="self"/>
-  <link href="http://rbracket.github.io//github/"/>
-  <updated>2014-05-21T14:27:29-07:00</updated>
-  <id>http://rbracket.github.io//github/</id>
+  <link href="http://rbracket.github.io//octopress/blog/categories/gis/atom.xml" rel="self"/>
+  <link href="http://rbracket.github.io//octopress/"/>
+  <updated>2014-05-22T08:57:52-07:00</updated>
+  <id>http://rbracket.github.io//octopress/</id>
   <author>
     <name><![CDATA[Katie Urey]]></name>
     <email><![CDATA[ksurey@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Starting]]></title>
-    <link href="http://rbracket.github.io//github/blog/2014/05/21/starting/"/>
+    <link href="http://rbracket.github.io//octopress/blog/2014/05/21/starting/"/>
     <updated>2014-05-21T12:45:09-07:00</updated>
-    <id>http://rbracket.github.io//github/blog/2014/05/21/starting</id>
+    <id>http://rbracket.github.io//octopress/blog/2014/05/21/starting</id>
     <content type="html"><![CDATA[<p>A blog post to the blog.</p>
 
 <p><img class="left" src="images/adela.jpg" width="60" height="60" title="&lsquo;Adela&rsquo; &lsquo;thing 2&rsquo;" ></p>
